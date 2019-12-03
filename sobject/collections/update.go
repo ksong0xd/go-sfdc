@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/g8rswimmer/go-sfdc/session"
-	"github.com/g8rswimmer/go-sfdc/sobject"
+	"github.com/ksong0xd/go-sfdc/session"
+	"github.com/ksong0xd/go-sfdc/sobject"
 )
 
 // UpdateValue is the return value from the

@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/g8rswimmer/go-sfdc"
-	"github.com/g8rswimmer/go-sfdc/session"
-	"github.com/g8rswimmer/go-sfdc/sobject"
+	"github.com/ksong0xd/go-sfdc"
+	"github.com/ksong0xd/go-sfdc/session"
+	"github.com/ksong0xd/go-sfdc/sobject"
 )
 
 func Test_collection_send(t *testing.T) {
